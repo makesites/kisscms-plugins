@@ -9,7 +9,7 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <script> 
-  FB.init({appId: "<?=FB_APPID?>", status: true, cookie: true});
+  FB.init({appId: "<?=FB_APPID?>", status: true, cookie: true, oauth : true });
   
   // Common Functions
 
