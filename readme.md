@@ -2,6 +2,6 @@
 
 A selection of officially supported plugins for popular actions... 
 
-Now move to: http://github.com/kisscms 
+Plugins now moved to: http://github.com/kisscms 
 
 
