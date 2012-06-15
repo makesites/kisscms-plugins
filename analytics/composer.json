@@ -21,5 +21,17 @@
             "type": "vcs",
             "url": "http://github.com/makesites/kisscms-plugins/tree/master/analytics"
         }
+		{
+            "type": "package",
+            "package": {
+                "name": "kisscms/analytics",
+                "version": "0.0.1",
+                "source": {
+                    "url": "https://github.com/makesites/kisscms-plugins/",
+                    "type": "git",
+                    "reference": "tree/master/analytics"
+                }
+            }
+        }
     ]
 }
