@@ -1,5 +1,0 @@
-<? 
-
-// twitter feed
-
-?>
